@@ -33,7 +33,7 @@
 - Planned deployment: **Vercel** (free tier).
 
 
-![Workflow](assets/workflow.PNG)
+![Workflow](assets/workflow.png)
 
 
 
