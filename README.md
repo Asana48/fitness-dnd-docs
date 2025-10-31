@@ -49,4 +49,4 @@
 
 
 MISC:
-* https://developers.strava.com/docs/getting-started/
+* https://developers.strava.com/docs/getting-started/ <-- requires webhooks for deauthorization users (not worrying with this atm).
