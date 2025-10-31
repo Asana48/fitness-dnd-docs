@@ -46,3 +46,7 @@
 | API Backend     | Render      | Free web service         | FastAPI                                    |
 | Database        | Supabase    | 500 MB–1 GB              | PostgreSQL                                 |
 ---
+
+
+MISC:
+* https://developers.strava.com/docs/getting-started/
